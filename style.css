@@ -148,6 +148,9 @@ footer {
   .content {
     margin: 20px;
   }
+  header {
+    font-size: smaller;
+  }
   .conteiner {
     margin: 10px;
   }
