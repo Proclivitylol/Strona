@@ -161,7 +161,7 @@ footer {
     max-width: 100%;
   }
   nav ul {
-    flex-direction: column;
+    flex-direction: row;
   }
   nav ul li {
     margin: 0;
