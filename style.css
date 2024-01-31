@@ -145,7 +145,26 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
-  body {
-    width: 100%;
+  .content {
+    margin: 20px;
+  }
+  .conteiner {
+    margin: 10px;
+  }
+  .recipe {
+    margin: 10px 0;
+  }
+  .cook-picture {
+    max-width: 100%;
+  }
+  nav ul {
+    flex-direction: column;
+  }
+  nav ul li {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  .rate {
+    height: auto;
   }
 }
