@@ -162,6 +162,7 @@ footer {
   }
   nav ul {
     flex-direction: row;
+    justify-content: space-between 2px;
   }
   nav ul li {
     margin: 0;
