@@ -16,7 +16,6 @@ header {
 }
 
 .logo {
-  font-size: 24px;
   font-weight: bold;
 }
 
@@ -143,4 +142,10 @@ footer {
   color: #fff;
   text-align: center;
   padding: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    width: 100%;
+  }
 }
