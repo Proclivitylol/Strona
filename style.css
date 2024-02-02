@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: "Josefin Sans", sans-serif;
   font-family: "Libre Baskerville", serif;
-  background-color: rgb(224, 255, 224);
+  background-color: rgb(247, 238, 240);
 }
 
 header {
@@ -37,6 +37,7 @@ header {
 }
 .cook-picture {
   max-width: 60%;
+  border-radius: 20px;
 }
 nav ul {
   list-style: none;
@@ -56,7 +57,7 @@ nav ul li a {
 }
 
 .background {
-  background: url("images/salad-2068220_1280.jpg") center/cover;
+  background: url("images/pexels-mart-production-8108002.jpg") center/cover;
   color: #fff;
   text-align: center;
   padding: 100px 20px;
@@ -162,7 +163,7 @@ footer {
   }
   nav ul {
     flex-direction: row;
-    justify-content: space-between 2px;
+    gap: 10px;
   }
   nav ul li {
     margin: 0;
